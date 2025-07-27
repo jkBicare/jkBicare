@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkBicare
-- 👀 I’m interested in Game Developmen, Anime, Fantasy Stories
+- 👀 I’m interested in Game Development, Anime, Fantasy Stories
 - 🌱 I’m currently learning Web, Mobile and Game Development
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ...
